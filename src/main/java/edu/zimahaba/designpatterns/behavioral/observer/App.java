@@ -10,7 +10,6 @@ public class App {
         Book domCasmurro = new Book(4, "Dom Casmurro", "Machado de Assis", false);
         Book lordOfTheRings = new Book(5, "Lord of the Rings", "J. R. R. Tolkien", false);
 
-
         ClientOne clientOne = new ClientOne();
         ClientTwo clientTwo = new ClientTwo();
         ClientThree clientThree = new ClientThree();
